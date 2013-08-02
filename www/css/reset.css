@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+div,section,nav {
+    display: block;
+}
+
+p,span,b,i,strong,small,li {
+    display: inline-block;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+}

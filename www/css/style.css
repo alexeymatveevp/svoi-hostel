@@ -1,0 +1,40 @@
+/* Background */
+body {
+    background: url('../img/mooning.png') repeat;
+}
+
+/* Navigation menu */
+nav.menu {
+    /*background: #4379ba;*/
+}
+    nav.menu > .logo {
+        background: url('../img/logo_small.png');
+    }
+    nav.menu > ul {
+    }
+        nav.menu > ul > li {
+            border-right: 1px solid #000000;
+            color: #000000;
+            text-align: center;
+            vertical-align: middle;
+        }
+        nav.menu > ul > li:hover {
+            border-right: 1px solid #000000;
+            color: #5a5a5a;
+            background: #5c8fc8;
+        }
+            nav.menu > ul > li > a {
+                font-size: 26px;
+            }
+
+/* Content section */
+section {
+    background: url('../img/ticks.png') repeat;
+}
+section > h1 {
+
+}
+.nobg {
+    background: none;
+}
+
