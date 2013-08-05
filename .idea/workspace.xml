@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\workspace\svoi-hostel\www\.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/layout.css" afterPath="$PROJECT_DIR$/www/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/reset.css" afterPath="$PROJECT_DIR$/www/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
+    <list default="true" id="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" name="Default" comment="update">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="svoi-hostel.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375702347581" ignored="false" />
-    <file path="/index.html" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375704122761" ignored="false" />
+    <file path="/Dummy.txt" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375709457156" ignored="false" />
+    <file path="/index.html" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375707207672" ignored="false" />
     <file path="/dummy.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375442539197" ignored="false" />
-    <file path="/layout.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375704179739" ignored="false" />
+    <file path="/layout.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375707103297" ignored="false" />
     <file path="/fragment.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375443221944" ignored="false" />
-    <file path="/.gitignore" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375443651127" ignored="false" />
+    <file path="/.gitignore" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375709423906" ignored="false" />
     <file path="/style.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375703149747" ignored="false" />
     <file path="/reset.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375703989699" ignored="false" />
+    <file path="/a.dummy" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375707714075" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,10 +75,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="61" selection-start="3156" selection-end="3156" vertical-scroll-proportion="0.4742268">
+            <state line="31" column="56" selection-start="902" selection-end="902" vertical-scroll-proportion="-20.26923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="59" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04171779">
               <folding />
             </state>
           </provider>
@@ -99,7 +96,7 @@
       <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+            <state line="18" column="28" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,7 +114,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="19" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
+            <state line="29" column="20" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -162,10 +159,11 @@
       <list>
         <option value="$PROJECT_DIR$/www/.gitignore" />
         <option value="$PROJECT_DIR$/www/js/scroll.js" />
-        <option value="$PROJECT_DIR$/www/css/style.css" />
         <option value="$PROJECT_DIR$/www/css/reset.css" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
         <option value="$PROJECT_DIR$/www/css/layout.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -219,6 +217,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svoi-hostel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,6 +392,15 @@
       <created>1375442175874</created>
       <updated>1375442175874</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1375704282874</created>
+      <updated>1375704282874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1375709449530</created>
+      <updated>1375709449530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -396,6 +417,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28537455" sideWeight="0.493517" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -415,7 +437,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28537455" sideWeight="0.493517" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -462,7 +483,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -476,6 +497,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -556,6 +578,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="26" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
@@ -565,21 +594,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="19" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
+        <state line="18" column="28" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="61" selection-start="3156" selection-end="3156" vertical-scroll-proportion="0.4742268">
+        <state line="31" column="56" selection-start="902" selection-end="902" vertical-scroll-proportion="-20.26923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="59" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04171779">
           <folding />
         </state>
       </provider>
