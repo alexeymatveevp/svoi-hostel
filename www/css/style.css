@@ -9,21 +9,21 @@ p {
 }
 
 /* Navigation menu */
-nav.menu {
+nav {
     /*background: #4379ba;*/
 }
-    nav.menu > .logo {
+    nav > .logo {
         background: url('../img/logo_small.png');
     }
-    nav.menu > ul {
+    nav > ul {
     }
-        nav.menu > ul > li {
+        nav > ul > li {
             border-right: 1px solid #000000;
             color: #000000;
             text-align: center;
             vertical-align: middle;
         }
-        nav.menu > ul > li:hover {
+        nav > ul > li:hover {
             border-right: 1px solid #000000;
             color: #5a5a5a;
             background: #5c8fc8;

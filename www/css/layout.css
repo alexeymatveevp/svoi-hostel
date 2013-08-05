@@ -10,32 +10,32 @@ p {
 }
 
 /* Navigation menu */
-nav.menu {
+nav {
     width: 100%;
     position: fixed;
     background: url('../img/mooning.png');
     z-index: 1;
 }
-    nav.menu > .logo {
+    nav > .logo {
         position: absolute;
         width: 200px;
         height: 200px;
         margin: 10px;
         left: 20px;
     }
-    nav.menu > ul {
+    nav > ul {
         display: inline-block;
         height: 100px;
         width: 700px;
         float: right;
     }
-        nav.menu > ul > li {
+        nav > ul > li {
             display: inline-block;
             height: 100px;
             padding-right: 42px;
             padding-left: 42px;
         }
-            nav.menu > ul > li > a {
+            nav > ul > li > a {
                 position: relative;
                 top:30px;
             }
