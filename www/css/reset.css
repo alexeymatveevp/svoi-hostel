@@ -8,9 +8,13 @@ div,section,nav {
     display: block;
 }
 
-p,span,b,i,strong,small,li {
+p,span,b,i,strong,small {
     display: inline-block;
     position: relative;
+}
+
+li {
+    list-style-type: none;
 }
 
 a {
