@@ -1,86 +1,91 @@
 /* Common */
-div.wrap {
-    margin: 0 100px 0 100px;
+body {
+    background: url('../img/bg3.png') repeat;
     position: absolute;
-    top: 200px;
+    font: normal 12px/20px Arial, Verdana, sans-serif;
 }
-
 p {
     display: block;
+    margin: 10px;
 }
 
-/* Navigation menu */
-nav {
-    width: 100%;
-    position: fixed;
-    background: url('../img/mooning.png');
-    z-index: 1;
+/* Header */
+header > * > .logo {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    left: 20px;
+    z-index: 2;
 }
-    nav > .logo {
-        position: absolute;
-        width: 200px;
-        height: 200px;
-        margin: 10px;
-        left: 20px;
-    }
-    nav > ul {
-        display: inline-block;
-        height: 100px;
-        width: 700px;
-        float: right;
-    }
-        nav > ul > li {
-            display: inline-block;
-            height: 100px;
-            padding-right: 42px;
-            padding-left: 42px;
-        }
-            nav > ul > li > a {
-                position: relative;
-                top:30px;
-            }
-
 #telephoneNumbers {
     display: block;
     position: absolute;
     left: 250px;
     top: 20px;
     width: 400px;
+    font-size: 16px;
+    z-index: 2;
 }
+/* Navigation menu */
+nav {
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    background: url('../img/mooning.png');
+    z-index: 1;
+}
+    nav > ul {
+        display: inline-block;
+        width: 700px;
+        top:30px;
+        right: 0px;
+        position: absolute;
+    }
+        nav > ul > li {
+            display: inline-block;
+            padding-right: 42px;
+            padding-left: 42px;
+        }
+        nav > ul > li:hover {
+            border-bottom: 3px solid #000000;
+            color: #5a5a5a;
+        }
+            nav > ul > li > a {
+                position: relative;
+                font-size: 26px;
+            }
 
 /* Content section */
 section {
     display: block;
-    margin: 20px 0 20px 0;
+    clear: both;
+    margin: 10px 4% 10px 4%;
     padding: 10px;
+    background: url('../img/ticks.png') repeat;
 }
     section > h1 {
         display: block;
         padding: 5px 5px 5px 30px;
+        font-size: 18px;
     }
 
-/* About section*/
-#about > ul.gallery > li {
-    display: inline-block;
+/* Intro section*/
+#intro {
+    margin-top: 230px;
 }
-    /* Photo positioning */
-    .photo3 > a > img {
-        width: 400px;
-        height: 300px;
-        -webkit-transform: rotate(-5deg);
-    }
-    .photo4 > a > img {
-        width: 370px;
-        height: 250px;
-        -webkit-transform: rotate(2deg);
-    }
-    .photo5 > a > img {
-        width: 300px;
-        height: 210px;
-        -webkit-transform: rotate(5deg);
-    }
-    .photo6 > a > img {
-        width: 350px;
-        height: 270px;
-        -webkit-transform: rotate(-8deg);
-    }
+#intro > .flexslider {
+    display: inline-block;
+    position: relative;
+    float: left;
+    width: 700px;
+}
+#intro > table {
+    display: inline-block;
+    position: relative;
+    float: left;
+    width: 300px;
+    border: 1px solid black;
+}
+
+/* About section */

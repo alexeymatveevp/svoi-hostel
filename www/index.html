@@ -3,16 +3,16 @@
 <head>
     <title>Hostel SVOI</title>
     <meta charset="UTF-8">
-    <link href="css/reset.css" rel="stylesheet">
-    <link href="css/layout.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+    <script src="js/jquery.flexslider.js"></script>
+    <script src="js/flexslider.js"></script>
     <script src="js/scroll.js"></script>
 </head>
 <body>
 <!-- Navigation menu -->
 <header>
-    <img src="img/logo.png" class="logo"/>
+    <a href="#intro"><img src="img/logo.png" class="logo"/></a>
     <ul id="telephoneNumbers">
         <li>Домашний: 647 36 86</li>
         <li>Мобильный: 8 911 153 82 81</li>
@@ -26,15 +26,51 @@
     </nav>
 </header>
 
-<!-- About section -->
-<section id="about" class="nobg">
+<!-- Intro section -->
+<section id="intro">
     <h1>About</h1>
-    <ul class="gallery">
-        <li class="photo3"><a href="#"><img src="img/photo/3.jpg" alt="Kitchen"/></a></li>
-        <li class="photo4"><a href="#"><img src="img/photo/4.jpg" alt="Kitchen"/></a></li>
-        <li class="photo5"><a href="#"><img src="img/photo/5.jpg" alt="Kitchen"/></a></li>
-        <li class="photo6"><a href="#"><img src="img/photo/6.jpg" alt="Kitchen"/></a></li>
-    </ul>
+    <div class="flexslider">
+      <ul class="slides">
+        <li>
+          <img src="img/photo/3.jpg" />
+        </li>
+        <li>
+          <img src="img/photo/4.jpg" />
+        </li>
+        <li>
+          <img src="img/photo/5.jpg" />
+        </li>
+        <li>
+          <img src="img/photo/2.jpg" />
+        </li>
+      </ul>
+    </div>
+    <table>
+        <tr>
+            <td>2х местный</td>
+            <td>500р</td>
+            <td><a href="#reserve">Бронировать</a></td>
+        </tr>
+        <tr>
+            <td>3х местный</td>
+            <td>450р</td>
+            <td><a href="#reserve">Бронировать</a></td>
+        </tr>
+        <tr>
+            <td>6 местный</td>
+            <td>400р</td>
+            <td><a href="#reserve">Бронировать</a></td>
+        </tr>
+        <tr>
+            <td>10 местный</td>
+            <td>300р</td>
+            <td><a href="#reserve">Бронировать</a></td>
+        </tr>
+    </table>
+</section>
+
+<!-- About section -->
+<section id="about">
     <ul>
         <li>- размещение в уютных, светлых номерах</li>
         <li>-комплект постельного белья и полотенце;</li>

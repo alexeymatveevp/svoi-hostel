@@ -6,15 +6,51 @@
     </list>
     <ignored path="svoi-hostel.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375709457156" ignored="false" />
-    <file path="/index.html" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375707207672" ignored="false" />
-    <file path="/dummy.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375442539197" ignored="false" />
-    <file path="/layout.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375707103297" ignored="false" />
+    <file path="/Dummy.txt" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375786880300" ignored="false" />
+    <file path="/index.html" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375801059558" ignored="false" />
+    <file path="/dummy.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375801042013" ignored="false" />
+    <file path="/layout.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375801837900" ignored="false" />
     <file path="/fragment.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375443221944" ignored="false" />
     <file path="/.gitignore" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375709423906" ignored="false" />
-    <file path="/style.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375703149747" ignored="false" />
+    <file path="/style.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375799029496" ignored="false" />
     <file path="/reset.css" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375703989699" ignored="false" />
-    <file path="/a.dummy" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375707714075" ignored="false" />
+    <file path="/a.dummy" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375786412596" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/validator/AkzToolCallcentersValidator.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="/AkzToolCallcentersValidator.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375786813929" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_wi/src/java/de/tmobile/ecare/wi/component/UILog.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789688727" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_wi/src/java/de/tmobile/ecare/wi/component/MessageCollection.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789687368" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_wi/src/java/de/tmobile/ecare/wi/component/UIPrepareMessages.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789688171" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_wi/src/java/de/tmobile/ecare/wi/jsf/AkzToolBBean.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_common/src/config/Configuration.dict" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375787083553" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_wi/src/java/de/tmobile/ecare/wi/jsf/subbean/AkzToolCallcenterModificationSubbean.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/impl/TariffUpSellingServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/impl/DirectChargingServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/impl/TvppServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_wi/src/java/de/tmobile/ecare/wi/jsf/NewBusinessBBean.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_common/src/java/de/tmobile/ecare/common/constants/ConfigurationConst.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_b2b_adaptor/src/java/de/tmobile/ecare/b2badaptor/actions/ReadContractsAction.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_common/src/java/de/tmobile/ecare/common/vo/GeneralSessionInfoVO.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_common/src/java/de/tmobile/cache/CascadedCacheImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_dms/src/java/de/tmobile/ecare/dms/dao/CVServiceDAOImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_common/src/java/de/tmobile/ecare/common/vo/workflow/BaseOrderVO.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/impl/ContractServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/ws/impl/RemoteCallServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_b2b_adaptor/src/java/de/tmobile/ecare/b2badaptor/actions/SearchCustomerAction.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_felidae/src/webservice/de/tmobile/ecare/webservice/tvpp/impl/TvppWebServicesImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/subservice/impl/TariffOptionChangeSubServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/impl/BsrefServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_felidae/src/webservice/de/tmobile/ecare/webservice/impl/PantherWS.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/services/impl/BaseOrderServiceImpl.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_business/src/java/de/tmobile/ecare/business/validator/TelekomEmailValidator.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_common/src/java/de/tmobile/ecare/common/util/StandardActionUtils.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/pom.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_b2b_adaptor/src/java/de/tmobile/ecare/b2badaptor/Constants.java" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_population/pom.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_dms/pom.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_b2b_adaptor/pom.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_felidae/pom.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ecare_dev/wfa_source/eca_apps/java/ecare_b2b_adaptor/src/java/de/tmobile/ecare/b2badaptor/applicationContext-service.xml" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375789700190" ignored="false" />
+    <file path="/flexslider.js" changelist="078e28a8-6fd3-4e7f-acfd-7bfd7aae2085" time="1375799769409" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,34 +114,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="56" selection-start="902" selection-end="902" vertical-scroll-proportion="-20.26923">
+            <state line="29" column="26" selection-start="864" selection-end="864" vertical-scroll-proportion="-14.807693">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="59" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04171779">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="28" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reset.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/reset.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+            <state line="30" column="26" selection-start="519" selection-end="519" vertical-scroll-proportion="0.24907975">
               <folding />
             </state>
           </provider>
@@ -114,7 +132,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="20" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+            <state line="6" column="30" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,11 +147,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/form.css">
+      <file leaf-file-name="flexslider.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/flexslider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="9" column="28" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#154#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,10 +180,12 @@
         <option value="$PROJECT_DIR$/www/.gitignore" />
         <option value="$PROJECT_DIR$/www/js/scroll.js" />
         <option value="$PROJECT_DIR$/www/css/reset.css" />
-        <option value="$PROJECT_DIR$/www/css/style.css" />
-        <option value="$PROJECT_DIR$/www/css/layout.css" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/www/css/lib.css" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/www/js/flexslider.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/layout.css" />
       </list>
     </option>
   </component>
@@ -202,6 +224,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,14 +254,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svoi-hostel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,21 +281,23 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\svoi-hostel\www\css" />
+      <recent name="C:\dev\workspace\svoi-hostel\www\js" />
       <recent name="C:\dev\workspace\svoi-hostel\www" />
     </key>
   </component>
@@ -276,19 +314,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -319,6 +344,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -332,13 +370,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -360,6 +391,13 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -417,7 +455,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28537455" sideWeight="0.493517" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -437,6 +474,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28537455" sideWeight="0.493517" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -503,34 +541,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="74" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -564,13 +574,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="74" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/form.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -578,37 +581,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="20" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+        <state line="2" column="59" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04171779">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/lib.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+        <state line="16" column="26" selection-start="223" selection-end="223" vertical-scroll-proportion="0.33374232">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/www/css/flexslider.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="28" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="74" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#154#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="56" selection-start="902" selection-end="902" vertical-scroll-proportion="-20.26923">
+        <state line="29" column="26" selection-start="864" selection-end="864" vertical-scroll-proportion="-14.807693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/www/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="59" selection-start="20" selection-end="20" vertical-scroll-proportion="0.04171779">
+        <state line="30" column="26" selection-start="519" selection-end="519" vertical-scroll-proportion="0.24907975">
           <folding />
         </state>
       </provider>

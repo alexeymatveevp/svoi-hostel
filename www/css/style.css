@@ -1,49 +1,6 @@
-/* Background */
-body {
-    /*background: url('../img/mooning.png') repeat;*/
-}
+@import "reset.css";
+@import "layout.css";
+@import "form.css";
+@import "lib.css";
 
-/* Common */
-p {
-    margin: 10px;
-}
-
-/* Navigation menu */
-nav {
-    /*background: #4379ba;*/
-}
-    nav > .logo {
-        background: url('../img/logo_small.png');
-    }
-    nav > ul {
-    }
-        nav > ul > li {
-            border-right: 1px solid #000000;
-            color: #000000;
-            text-align: center;
-            vertical-align: middle;
-        }
-        nav > ul > li:hover {
-            border-right: 1px solid #000000;
-            color: #5a5a5a;
-            background: #5c8fc8;
-        }
-            nav.menu > ul > li > a {
-                font-size: 26px;
-            }
-#telephoneNumbers {
-    font-size: 30px;
-}
-
-/* Content section */
-section {
-    background: url('../img/ticks.png') repeat;
-}
-section > h1 {
-    font-size: 24px;
-}
-
-.nobg {
-    background: none;
-}
-
+@import "flexslider.css";
