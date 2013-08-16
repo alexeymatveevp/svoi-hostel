@@ -10,7 +10,7 @@ $(window).load(function() {
        animation: "slide",
 //       animationLoop: false
 //       itemWidth: 500
-//       itemMargin: 15,
+       itemMargin: 50
 //       controlNav: "thumbnails"
    });
 });
