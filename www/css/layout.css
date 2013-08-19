@@ -11,6 +11,7 @@ p {
 
 /* Header */
 header {
+    border-top: #0745ad 10px solid;
     background: url('../img/city_header.png');
     height: 400px;
 }
@@ -96,28 +97,35 @@ section {
     text-align: center;
     margin: 0 auto;
 }
-    #costs > div > ul > li {
-        display: inline-block;
-        position: relative;
-        float: left;
-        margin: 0 0 50px 20px;
-        width: 280px;
-    }
-    #costs > div > ul > li .subtitle {
-        display: block;
-        font-size: 18px;
-        margin: 0 0 23px;
-    }
-    #costs > div > ul > li > img {
-        width: 280px;
-        height: 170px;
-        margin: 0 0 18px;
-    }
+ul.span3-list > li {
+    display: inline-block;
+    position: relative;
+    float: left;
+    margin: 0 0 50px 20px;
+    width: 280px;
+}
+ul.span3-list > li .subtitle {
+    display: block;
+    font-size: 18px;
+    margin: 0 0 23px;
+}
+ul.span3-list > li > img {
+    width: 280px;
+    height: 170px;
+    margin: 0 0 18px;
+}
 
 /* Gallery section */
 
-/* About section */
-
+/* Features section */
+#features > div > ul > li {
+    font-size: 18px;
+}
+#features > div > ul > li > img {
+    float: left;
+    width: 128px;
+    height: 128px;
+}
 
 /* Contacts section */
 #map_holder {
