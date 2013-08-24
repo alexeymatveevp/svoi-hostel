@@ -9,3 +9,17 @@
     float: left;
     width: 35%;
 }
+
+/** block 900 */
+.block900 {
+    width: 900px;
+    margin: 0 auto;
+}
+
+/** big numbers */
+strong.number {
+    font-size: 48px;
+}
+strong.number-small {
+    font-size: 40px;
+}
