@@ -135,6 +135,7 @@ ul.span3-list > li > img {
 /* Contacts section */
 #map_holder {
     height: 300px;
+    width: 300px;
 }
 #map_canvas {
     width: 100%;

@@ -9,7 +9,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
     <script src="js/jquery.maskedinput.js"></script>
     <script src="js/ui.datepicker.js"></script>
-    <script src="js/datepicker.translate.js"></script>
+    <!--<script src="js/datepicker.translate.js"></script>-->
     <script type="text/javascript"
             src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBV4xYyz4v-2kRolvdprv-efZLaKlwzD04&sensor=true"></script>
 
@@ -151,12 +151,6 @@
             <li>Трансфер от вокзала/аэропорта (за дополнительную плату)</li>
             <li>Заказ <strong>экскурсий</strong>, билетов на стойке администратора</li>
         </ul>
-        <p>
-            ====
-            Мы рады встретить вас в любое время дня и ночи
-            Расчетный час 12:00
-            ( въезд с 13:00; выезд до 12:00)
-        </p>
     </div>
 </section>
 
@@ -182,7 +176,7 @@
             </div>
             <div class="field">
                 <label for="personNumber">Количество человек:</label>
-                <input id="personNumber" type="text"/>
+                <input id="personNumber" type="text" value="1"/>
                 <div class="clickers">
                     <a class="clicker arrow-up" href>
                         <em></em>
@@ -221,6 +215,13 @@
                 <input id="phoneNumber" type="tel"/>
             </div>
         </form>
+        <p class="info-paragraph">
+            Мы рады встретить вас в любое время дня и ночи
+        </p>
+        <p class="info-paragraph">
+            Расчетный час <strong>12:00</strong>
+            (въезд с <strong>13:00</strong>; выезд до <strong>12:00</strong>)
+        </p>
     </div>
 </section>
 
@@ -232,6 +233,9 @@
             <li>Домашний: 647 36 86</li>
             <li>Мобильный: 8 911 153 82 81</li>
         </ul>
+        <p>Месторасположение:
+            - 5 мин( 500 метров). пешком от м. Пушкинская
+            - 3 мин(300 метров). пешком от м. Технологический институт</p>
         <ul>
             <li id="map_holder"><div id="map_canvas"></div></li>
             <li>
@@ -250,23 +254,12 @@
 
  <!--Contacts section -->
 <section id="contacts">
-    <!--<div class="block900">-->
-        <h1>Контакты</h1>
-        <ul>
-            <li>Домашний: 647 36 86</li>
-            <li>Мобильный: 8 911 153 82 81</li>
-        </ul>
-        <p>Месторасположение:
-            - 5 мин( 500 метров). пешком от м. Пушкинская
-            - 3 мин(300 метров). пешком от м. Технологический институт</p>
-        <img id="map" src="img/svoi_location.png"/>
         <ul>
             <li>
                 <p>Мы находимся на 6 этаже жилого дома, признанного памятником архитектуры Санкт-Петербурга с прекрасным видом из окон на Загородный и Московский проспекты, на купола Троицкого и Владимирского соборов.</p>
                 Неподалеку от нас располагаются:
             </li>
         </ul>
-    <!--</div>-->
 </section>
 
 <!--Footer section -->
