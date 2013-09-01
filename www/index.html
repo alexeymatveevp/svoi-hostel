@@ -7,6 +7,9 @@
 
     <!-- Public scripts -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+    <script src="js/jquery.maskedinput.js"></script>
+    <script src="js/ui.datepicker.js"></script>
+    <script src="js/datepicker.translate.js"></script>
     <script type="text/javascript"
             src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBV4xYyz4v-2kRolvdprv-efZLaKlwzD04&sensor=true"></script>
 
@@ -15,6 +18,7 @@
     <script src="js/flexslider.js"></script>
     <script src="js/scroll.js"></script>
     <script src="js/map.js"></script>
+    <script src="js/form.js"></script>
 </head>
 <body>
 <!-- Navigation menu -->
@@ -165,18 +169,58 @@
 <section id="reserve">
     <div class="block900">
         <h1>Бронировать</h1>
-        <h3>Бронирование по телефонам:</h3>
-        <ul>
-            <li>Домашний: 647 36 86</li>
-            <li>Мобильный: 8 911 153 82 81</li>
-        </ul>
-        <p>10 - местный смешанный - 500 рублей сутки</p>
-        <p>8 - местный мужской - 600 рублей сутки</p>
-        <p>8 - местный женский - 600 рублей в сутки</p>
-        <p>4 - местный смешанный -750 рублей в сутки</p>
-        <p>2 - местный- 1500 рублей в сутки</p>
-        <p>Месяц проживания:
-        10-местный номер: 9000 рублей с человека</p>
+
+        <form id="reserveForm" action="/">
+            <div class="field">
+                <label for="desiredDate">Время проживания:</label>
+                <input id="desiredDate" type="text"/>
+                <div class="clickers">
+                    <a class="clicker date-picker" href>
+                        <em></em>
+                    </a>
+                </div>
+            </div>
+            <div class="field">
+                <label for="personNumber">Количество человек:</label>
+                <input id="personNumber" type="text"/>
+                <div class="clickers">
+                    <a class="clicker arrow-up" href>
+                        <em></em>
+                    </a>
+                    <a class="clicker arrow-down" href>
+                        <em></em>
+                    </a>
+                </div>
+            </div>
+            <div class="field">
+                <label>Номер:</label>
+                <ul id="personNumbersList">
+                    <li>
+                        <input name="chosenRoom" type="radio" value="10"/>10-местный
+                    </li>
+                    <li>
+                        <input name="chosenRoom" type="radio" value="8"/>8-местный
+                    </li>
+                    <li>
+                        <input name="chosenRoom" type="radio" value="4"/>4-местный
+                    </li>
+                    <li>
+                        <input name="chosenRoom" type="radio" value="2"/>2-местный
+                    </li>
+                    <li>
+                        <input name="chosenRoom" type="radio" value="0"/>месяц проживания
+                    </li>
+                </ul>
+            </div>
+            <div class="field">
+                <label for="yourName">Ваше имя:</label>
+                <input id="yourName" type="text"/>
+            </div>
+            <div class="field">
+                <label for="phoneNumber">Ваш телефон:</label>
+                <input id="phoneNumber" type="tel"/>
+            </div>
+        </form>
     </div>
 </section>
 
