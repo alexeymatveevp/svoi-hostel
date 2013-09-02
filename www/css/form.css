@@ -1,0 +1,98 @@
+#reserveForm {
+    /*float: left;*/
+    margin: auto;
+    width: 350px;
+    padding: 20px;
+    background-color: #ebebeb;
+    border: 1px solid #e4e4e4;
+}
+.field {
+    margin-bottom: 20px;
+    clear: both;
+    text-align: right;
+}
+.field label {
+    float: left;
+    width: 160px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.field input {
+    padding: 6px;
+}
+
+#personNumbersList {
+    width: 155px;
+    float: right;
+}
+#personNumbersList li {
+    float: left;
+    clear: both;
+}
+
+#desiredDate {
+    width: 126px;
+}
+#personNumber {
+    width: 126px;
+}
+
+/* Date arrows */
+.clickers {
+    right: 6px;
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    height: 30px;
+    vertical-align: top;
+}
+.clicker {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #BFBFBF;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f5f5f5), color-stop(100%,#e8e8e8));
+}
+.clickers .clicker.arrow-up {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 28px;
+    height: 16px;
+    border-radius: 0px 2px 0px 0px;
+    -moz-border-radius: 0px 2px 0px 0px;
+    -webkit-border-radius: 0px 2px 0px 0px;
+}
+.clickers .clicker.arrow-down {
+    position: absolute;
+    top: 18px;
+    left: 0px;
+    width: 28px;
+    height: 13px;
+    border-radius: 0px 0px 2px 0px;
+    -moz-border-radius: 0px 0px 2px 0px;
+    -webkit-border-radius: 0px 0px 2px 0px;
+    border-top: 0px;
+}
+.clickers .clicker em {
+    background: url('../img/small/clicker_arrows.png') 0px 0px no-repeat;
+    display: inline-block;
+    width: 9px;
+    height: 4px;
+    margin: 4px;
+    text-align: center;
+}
+.clickers .clicker.arrow-down em {
+    background-position: 0px -4px;
+}
+.clicker.date-picker {
+    height: 30px;
+    width: 28px;
+    text-align: left;
+}
+.clicker.date-picker em {
+    background: url('../img/small/date-picker.png') 0px 0px no-repeat;
+    display: inline-block;
+    width: 17px;
+    height: 16px;
+    margin: 6px 0px 0px 5px;
+}

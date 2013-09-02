@@ -13,7 +13,7 @@
 /** block 900 */
 .block900 {
     width: 900px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 /** big numbers */
@@ -22,4 +22,14 @@ strong.number {
 }
 strong.number-small {
     font-size: 40px;
+}
+
+.info-paragraph {
+    display: block;
+    font-size: 18px;
+    margin: 15px;
+    text-align: center;
+}
+.info-paragraph strong {
+    font-size: 24px;
 }
