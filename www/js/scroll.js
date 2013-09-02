@@ -63,3 +63,18 @@ $(function() {
     }
 
 });
+
+
+/* On scroll header change */
+$(function(){
+    var alreadyScrolled = false;
+    $(window).scroll(function() {
+        console.log(window.scrollY && !alreadyScrolled);
+        if (window.scrollY > 300 && !alreadyScrolled) {
+            $('header').animate({
+                background: 'rgba(230,40,56,1)'
+            }, 500);
+            alreadyScrolled = true;
+        }
+    });
+});

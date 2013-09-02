@@ -12,8 +12,12 @@ p {
 /* Header */
 header {
     border-top: #0745ad 10px solid;
-    background: url('../img/city_header.png');
-    height: 400px;
+    /*background: url('../img/city_header.png');*/
+    background: rgba(230,40,56,0.2);
+    height: 150px;
+    width: 100%;
+    position: fixed;
+    z-index: 3;
 }
 header > * > .logo {
     width: 200px;
@@ -87,6 +91,9 @@ section {
     }
 
 /* Costs section*/
+#costs {
+    margin-top: 300px;
+}
 #costs > div > ul {
     text-align: center;
     margin: 0 auto;
