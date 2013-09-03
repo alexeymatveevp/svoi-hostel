@@ -13,8 +13,8 @@ p {
 header {
     border-top: #0745ad 10px solid;
     /*background: url('../img/city_header.png');*/
-    background: rgba(230,40,56,0.2);
-    height: 150px;
+    background: rgba(7, 69, 173, 0.3);
+    height: 75px;
     width: 100%;
     position: fixed;
     z-index: 3;
@@ -31,7 +31,7 @@ header > * > .logo {
     display: block;
     position: absolute;
     left: 250px;
-    top: 20px;
+    top: 10px;
     width: 230px;
     font-size: 16px;
 }
@@ -44,30 +44,44 @@ header > * > .logo {
     }
 
 /* Navigation menu */
+header {
+    -webkit-transition: all 0.5s ease;
+}
+header.scrolled-top {
+    background-color: rgba(7, 69, 173, 0.2);
+    color: black;
+}
+header.scrolled-bottom {
+    background-color: rgba(7, 69, 173, 1);
+    color: white;
+}
+header.scrolled-bottom nav > ul > li > a:hover {
+    color: rgb(246, 246, 246);
+    background-color: rgba(220, 225, 249, 0.80);
+}
 nav {
-    /*background: url('../img/mooning.png');*/
     z-index: 1;
 }
     nav > ul {
         display: inline-block;
-        width: 500px;
+        width: 800px;
         top:30px;
         right: 0px;
         position: absolute;
     }
         nav > ul > li {
             display: inline-block;
-            padding-right: 22px;
-            padding-left: 22px;
-        }
-        nav > ul > li:hover {
-            border-bottom: 3px solid #000000;
-            color: #5a5a5a;
         }
             nav > ul > li > a {
                 position: relative;
+                padding: 24px 20px 20px 20px;
                 font-size: 26px;
             }
+            nav > ul > li > a:hover {
+                color: rgb(246, 246, 246);
+                background-color: rgba(76, 89, 182, 0.38);
+            }
+
 
 /* Content section */
 section {
@@ -90,9 +104,13 @@ section {
         float: left;
     }
 
+/** Sections */
+#costs-banner {
+    margin-top: 300px;
+}
 /* Costs section*/
 #costs {
-    margin-top: 300px;
+
 }
 #costs > div > ul {
     text-align: center;

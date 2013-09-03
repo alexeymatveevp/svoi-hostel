@@ -1,5 +1,4 @@
 $(function() {
-
     function filterPath(string) {
         return string
             .replace(/^\//,'')
@@ -24,17 +23,17 @@ $(function() {
             if (target) {
 
                 // Find location of target
-                var targetOffset = $target.offset().top;
+                var targetOffset = $target.offset().top - 100;
                 $(this).click(function(event) {
 
                     // Prevent jump-down
                     event.preventDefault();
 
                     // Animate to target
-                    $(scrollElem).animate({scrollTop: targetOffset}, 400, function() {
+                    $(scrollElem).animate({scrollTop: targetOffset}, 1000, function() {
 
                         // Set hash in URL after animation successful
-                        location.hash = target;
+//                        location.hash = target;
 
                     });
                 });
@@ -67,14 +66,24 @@ $(function() {
 
 /* On scroll header change */
 $(function(){
-    var alreadyScrolled = false;
     $(window).scroll(function() {
-        console.log(window.scrollY && !alreadyScrolled);
-        if (window.scrollY > 300 && !alreadyScrolled) {
-            $('header').animate({
-                background: 'rgba(230,40,56,1)'
-            }, 500);
-            alreadyScrolled = true;
+        console.log(window.scrollY);
+        if (window.scrollY > 200) {
+            animateHeaderBot();
+        }
+        if (window.scrollY < 200) {
+            animateHeaderTop();
         }
     });
+
 });
+
+function animateHeaderTop() {
+    $('header').removeClass('scrolled-bottom');
+    $('header').addClass('scrolled-top');
+}
+
+function animateHeaderBot() {
+    $('header').removeClass('scrolled-top');
+    $('header').addClass('scrolled-bottom');
+}
